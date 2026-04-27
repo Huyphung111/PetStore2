@@ -203,7 +203,7 @@ Cot `ChiTietHoaDon`:
 - `DonGia`
 - `ThanhTien`
 
-### Thong ke
+### Thong ke/
 
 View hien co: `vw_ThongKeDoanhThu`
 
