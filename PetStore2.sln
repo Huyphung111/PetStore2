@@ -10,6 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		SolutionItems\DATABASE_MAPPING.md = SolutionItems\DATABASE_MAPPING.md
 		C:\Users\huyth\Downloads\MoTa_Luong_QuanLyPetShop.md = C:\Users\huyth\Downloads\MoTa_Luong_QuanLyPetShop.md
 		QuanLyPetShop.sql = QuanLyPetShop.sql
+		QuanLyThuCung.txt = QuanLyThuCung.txt
 	EndProjectSection
 EndProject
 Global
